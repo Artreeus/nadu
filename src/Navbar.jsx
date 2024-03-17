@@ -20,7 +20,7 @@ function Navbar() {
               <li><a className="text-base font-normal text-[#150B2BB3]">Search</a></li>
             </ul>
           </div>
-          <a className="text-[#150B2B] text-3xl font-bold">Ratul's<span className="text-[#0BE58A]">Kitchen</span></a>
+          <a className="text-[#150B2B] text-3xl font-bold">Nadu's<span className="text-[#89db46]">Space</span></a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -60,7 +60,7 @@ function Navbar() {
           <span className="text-primary-color">Discover</span> an exceptional cooking class tailored for you!
         </h1>
         <p className="text-sm md:text-lg md:font-normal max-w-[933px] mx-auto">
-          Embark on a Journey to Wellness with <span className="text-[#0BE58A]">Ratul's Kitchen </span>: Your Destination for Wholesome Recipes that Nourish Body and Soul. Discover the Joy of Eating Well, Every Bite Counts!
+          Embark on a Journey to Wellness with <span className="text-[#89db46]">Nadu's Sapce</span>: Your Destination for Wholesome Recipes that Nourish Body and Soul. Discover the Joy of Eating Well, Every Bite Counts!
         </p>
         <div className="space-x-4">
           <button className="btn font-semibold bg-[#0BE58A] px-5 border-none outline-none rounded-[50px]">Explore Now</button>
