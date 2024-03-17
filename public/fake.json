@@ -1,0 +1,205 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Margherita Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "A pizza that everyone loves to eat"
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 300,
+      "tags": [
+        "Pizza",
+        "Italian"
+      ],
+      "userId": 45,
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "rating": 4.6,
+      "reviewCount": 3,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Stir-Fry",
+      "ingredients": [
+        "Tofu, cubed",
+        "Broccoli florets",
+        "Carrots, sliced",
+        "Bell peppers, sliced",
+        "Soy sauce"
+
+      ],
+      "instructions": [
+        "Salad with the most recently fresh ingridents that will come to you"
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "Medium",
+      "cuisine": "Asian",
+      "caloriesPerServing": 250,
+      "tags": [
+        "Vegetarian",
+        "Stir-fry",
+        "Asian"
+      ],
+      "userId": 58,
+      "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+      "rating": 4.7,
+      "reviewCount": 36,
+      "mealType": [
+        "Lunch"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "All-purpose flour",
+        "Butter, softened",
+        "Brown sugar",
+        "White sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "Freshly Baked cookies in oven that will remind you of your childhood"
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "servings": 24,
+      "difficulty": "Easy",
+      "cuisine": "American",
+      "caloriesPerServing": 150,
+      "tags": [
+        "Cookies",
+        "Dessert",
+        "Baking"
+      ],
+      "userId": 39,
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "rating": 4.9,
+      "reviewCount": 23,
+      "mealType": [
+        "Snack",
+        "Dessert"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chicken Alfredo Pasta",
+      "ingredients": [
+        "Fettuccine pasta",
+        "Chicken breast, sliced",
+        "Heavy cream",
+        "Parmesan cheese, grated"
+       
+      ],
+      "instructions": [
+        "Classical pasta from italy whats u will definetly want to try."
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Italian",
+      "caloriesPerServing": 600,
+      "tags": [
+        "Pasta",
+        "Chicken",
+        "Italian"
+      ],
+      "userId": 27,
+      "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+      "rating": 4.8,
+      "reviewCount": 45,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id":5,
+      "name":"Mango Salsa Chicken",
+      "ingredients":[
+         "Chicken thighs",
+         "Mango, diced",
+         "Red onion, finely chopped",
+         "Cilantro, chopped",
+         "Lime juice",
+         "Jalapeño, minced",
+         "Salt and pepper to taste",
+         "Cooked rice for serving"
+      ],
+      "instructions":[
+         "Grilled chiken with salads that is good for your health"
+      ],
+      "prepTimeMinutes":15,
+      "cookTimeMinutes":25,
+      "servings":3,
+      "difficulty":"Easy",
+      "cuisine":"Mexican",
+      "caloriesPerServing":380,
+      "tags":[
+         "Chicken",
+         "Salsa"
+      ],
+      "userId":48,
+      "image":"https://cdn.dummyjson.com/recipe-images/5.webp",
+      "rating":4.9,
+      "reviewCount":25,
+      "mealType":[
+         "Dinner"
+      ]
+   },
+   {
+      "id":6,
+      "name":"Quinoa Salad with Avocado",
+      "ingredients":[
+         "Quinoa, cooked",
+         "Avocado, diced",
+         "Cherry tomatoes, halved",
+         "Cucumber, diced",
+         "Red bell pepper, diced",
+         "Feta cheese, crumbled",
+         "Lemon vinaigrette dressing",
+         "Salt and pepper to taste"
+      ],
+      "instructions":[
+         "Saladas and other items which you should try."
+      ],
+      "prepTimeMinutes":20,
+      "cookTimeMinutes":15,
+      "servings":4,
+      "difficulty":"Easy",
+      "cuisine":"Mediterranean",
+      "caloriesPerServing":280,
+      "tags":[
+         "Salad",
+         "Quinoa"
+      ],
+      "userId":5,
+      "image":"https://cdn.dummyjson.com/recipe-images/6.webp",
+      "rating":4.4,
+      "reviewCount":21,
+      "mealType":[
+         "Lunch",
+         "Side Dish"
+      ]
+   }
+]

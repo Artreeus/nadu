@@ -1,0 +1,13 @@
+header,
+.banner,
+.r-text,
+.card,
+.cook {
+  font-family: "Lexend", sans-serif;
+}
+
+.banner {
+  background: linear-gradient(0deg, #150b2be6, #150b2b00),
+    url(/banner.jpg) #d3d3d3 0px -18.896px / 100% 123.31% no-repeat;
+}
+
