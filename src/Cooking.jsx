@@ -12,7 +12,7 @@ const Cooking = ({ cookingList, setCookingList }) => {
   };
 
   return (
-    <div className="cook lg:w-full card-shadows h-full py-5 space-y-4 flex flex-col ">
+    <div className="cook lg:w-full card-shadows h-auto py-5 space-y-4 flex flex-col  border rounded-xl ">
       <h1 className="px-5 text-center text-2xl font-semibold">
         Want to cook: {cookingList.length}
       </h1>

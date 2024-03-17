@@ -73,9 +73,9 @@ function App() {
         </p>
       </div>
 
-      <div className="main-container grid grid-cols-12 container mx-auto gap-8">
-        <div className="left-container col-span-7">
-          <div className="card container mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 my-9">
+      <div className="main-container grid grid-cols-12 container mx-auto gap-8 my-8">
+        <div className="left-container lg:col-span-8 col-span-12">
+          <div className="card container mx-auto grid md:grid-cols-2 lg:grid-cols-2 gap-8 my-9">
             {recipes.map((recipe) => (
               <RecipeCard
                 key={recipe.id}
@@ -91,7 +91,7 @@ function App() {
             ))}
           </div>
         </div>
-        <div className="right-container col-span-5">
+        <div className="right-container lg:col-span-4 col-span-12">
         <Cooking cookingList={cookingList} setCookingList={setCookingList} />
         </div>
       </div>
